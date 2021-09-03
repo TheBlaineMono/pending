@@ -1,26 +1,26 @@
 {
     "pending": {
-        "lsk3fw4ttb62k46xkommswj9wbd78kmfzzp78mohg": 592316979,
-        "lsksjxsmsmnfjjdpo4hocxa5hsfffbcdxzgmbgwmp": 1132048995,
-        "lskrcroejfjvdmdsd6g9han7rp2gk74pdrvonm2x3": 6792243,
-        "lsksnvy6x4k9rudbnehfqsndwcobdvnxus9mwnwzs": 2264098124,
-        "lskth449yvab64oprouqp8x93dwqu697enkoteuzo": 277384248,
+        "lskq7jrtxzjpsof24csvvhrc6f6hc84eqmj8w3euk": 681073520,
+        "lskckvqz4feqo5u9s66cjkdq48cou69c8w4q92sqj": 3787021,
+        "lskfv5fpomz9wkfyopehfrhurtwc3k94ed6eh6x8b": 1564392982,
+        "lskxpgqegv66hwofpajutgm7vym77yk6tsg5x8rkf": 181619503,
+        "lskrcroejfjvdmdsd6g9han7rp2gk74pdrvonm2x3": 6810684,
+        "lsksjxsmsmnfjjdpo4hocxa5hsfffbcdxzgmbgwmp": 1135122513,
+        "lsk3fw4ttb62k46xkommswj9wbd78kmfzzp78mohg": 596005201,
+        "lskd49wwnfvv6jp8j5f8g8zv9h3wputebz44wcmp2": 227024407,
+        "lskth449yvab64oprouqp8x93dwqu697enkoteuzo": 279535710,
+        "lsksnvy6x4k9rudbnehfqsndwcobdvnxus9mwnwzs": 2270245161,
+        "lskwj6np929jrvcnmhb58m4n4poer7e2apdq2q9g2": 22702381,
+        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 7053902906,
+        "lskdh57h3df8yjpytzom8779umnsdjr69zekq3oyj": 34669268,
         "lsk33zf6m84q5odkbjx4v9x96y2wcq84wqvtd2vzp": 1443594579,
-        "lskckvqz4feqo5u9s66cjkdq48cou69c8w4q92sqj": 3756286,
-        "lskxpgqegv66hwofpajutgm7vym77yk6tsg5x8rkf": 181127741,
-        "lskdh57h3df8yjpytzom8779umnsdjr69zekq3oyj": 34300446,
-        "lskd49wwnfvv6jp8j5f8g8zv9h3wputebz44wcmp2": 226409704,
-        "lskbaf6xmvk4f3o8t5y2du45t8shkpxsfcrthufcm": 29433193,
-        "lskwj6np929jrvcnmhb58m4n4poer7e2apdq2q9g2": 22640911,
-        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 7034767180,
-        "lskfv5fpomz9wkfyopehfrhurtwc3k94ed6eh6x8b": 1552098908,
-        "lskq7jrtxzjpsof24csvvhrc6f6hc84eqmj8w3euk": 679229409
+        "lskbaf6xmvk4f3o8t5y2du45t8shkpxsfcrthufcm": 29513104
     },
     "lastPayout": {
-        "producedBlocks": 355,
-        "rewards": 35500000000,
-        "date": 1630690202
+        "producedBlocks": 356,
+        "date": 1630691102,
+        "rewards": 35600000000
     },
-    "paid": {},
-    "history": []
+    "history": [],
+    "paid": {}
 }
