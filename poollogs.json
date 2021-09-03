@@ -1,27 +1,27 @@
 {
-    "history": [],
     "pending": {
-        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 7394162795,
-        "lskq7jrtxzjpsof24csvvhrc6f6hc84eqmj8w3euk": 713864375,
-        "lskth449yvab64oprouqp8x93dwqu697enkoteuzo": 317791707,
-        "lskpb7rypqzrh9kk66dbc3hkoujpe4pw9ba5z47nz": 10930284,
-        "lskrcroejfjvdmdsd6g9han7rp2gk74pdrvonm2x3": 7138590,
-        "lskckvqz4feqo5u9s66cjkdq48cou69c8w4q92sqj": 4333522,
-        "lsk3fw4ttb62k46xkommswj9wbd78kmfzzp78mohg": 661586926,
-        "lskdh57h3df8yjpytzom8779umnsdjr69zekq3oyj": 41227427,
-        "lskwj6np929jrvcnmhb58m4n4poer7e2apdq2q9g2": 23795398,
-        "lskfv5fpomz9wkfyopehfrhurtwc3k94ed6eh6x8b": 1782998755,
-        "lskxpgqegv66hwofpajutgm7vym77yk6tsg5x8rkf": 190363726,
-        "lskd49wwnfvv6jp8j5f8g8zv9h3wputebz44wcmp2": 237954691,
-        "lsksnvy6x4k9rudbnehfqsndwcobdvnxus9mwnwzs": 2379548040,
-        "lsksjxsmsmnfjjdpo4hocxa5hsfffbcdxzgmbgwmp": 1189773951,
-        "lskbaf6xmvk4f3o8t5y2du45t8shkpxsfcrthufcm": 30934027,
-        "lsk33zf6m84q5odkbjx4v9x96y2wcq84wqvtd2vzp": 1443594579
+        "lskd49wwnfvv6jp8j5f8g8zv9h3wputebz44wcmp2": 238561929,
+        "lskxpgqegv66hwofpajutgm7vym77yk6tsg5x8rkf": 190849516,
+        "lskfv5fpomz9wkfyopehfrhurtwc3k94ed6eh6x8b": 1795143520,
+        "lskth449yvab64oprouqp8x93dwqu697enkoteuzo": 319917040,
+        "lsksjxsmsmnfjjdpo4hocxa5hsfffbcdxzgmbgwmp": 1192810142,
+        "lskq7jrtxzjpsof24csvvhrc6f6hc84eqmj8w3euk": 715686089,
+        "lskrcroejfjvdmdsd6g9han7rp2gk74pdrvonm2x3": 7156807,
+        "lsksnvy6x4k9rudbnehfqsndwcobdvnxus9mwnwzs": 2385620422,
+        "lskpb7rypqzrh9kk66dbc3hkoujpe4pw9ba5z47nz": 11537522,
+        "lsk33zf6m84q5odkbjx4v9x96y2wcq84wqvtd2vzp": 1443594579,
+        "lsk3fw4ttb62k46xkommswj9wbd78kmfzzp78mohg": 665230355,
+        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 7413066122,
+        "lskdh57h3df8yjpytzom8779umnsdjr69zekq3oyj": 41591769,
+        "lskbaf6xmvk4f3o8t5y2du45t8shkpxsfcrthufcm": 31012967,
+        "lskckvqz4feqo5u9s66cjkdq48cou69c8w4q92sqj": 4363883,
+        "lskwj6np929jrvcnmhb58m4n4poer7e2apdq2q9g2": 23856121
     },
     "paid": {},
+    "history": [],
     "lastPayout": {
-        "date": 1630710002,
-        "producedBlocks": 374,
-        "rewards": 37400000000
+        "rewards": 37500000000,
+        "producedBlocks": 375,
+        "date": 1630711802
     }
 }
