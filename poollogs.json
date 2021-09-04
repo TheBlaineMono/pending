@@ -1,28 +1,28 @@
 {
+    "history": [],
     "paid": {},
     "pending": {
-        "lskq7jrtxzjpsof24csvvhrc6f6hc84eqmj8w3euk": 788445362,
+        "lskxpgqegv66hwofpajutgm7vym77yk6tsg5x8rkf": 210731936,
+        "lskwj6np929jrvcnmhb58m4n4poer7e2apdq2q9g2": 26341399,
         "lsk33zf6m84q5odkbjx4v9x96y2wcq84wqvtd2vzp": 1443594579,
-        "lskxpgqegv66hwofpajutgm7vym77yk6tsg5x8rkf": 210251975,
-        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 8168065096,
-        "lskrcroejfjvdmdsd6g9han7rp2gk74pdrvonm2x3": 7884393,
-        "lskd49wwnfvv6jp8j5f8g8zv9h3wputebz44wcmp2": 262815019,
-        "lskth449yvab64oprouqp8x93dwqu697enkoteuzo": 404802858,
-        "lskpb7rypqzrh9kk66dbc3hkoujpe4pw9ba5z47nz": 35790612,
-        "lskfv5fpomz9wkfyopehfrhurtwc3k94ed6eh6x8b": 2280205498,
-        "lskckvqz4feqo5u9s66cjkdq48cou69c8w4q92sqj": 5576507,
-        "lskwj6np929jrvcnmhb58m4n4poer7e2apdq2q9g2": 26281404,
-        "lsksnvy6x4k9rudbnehfqsndwcobdvnxus9mwnwzs": 2628151395,
-        "lskdh57h3df8yjpytzom8779umnsdjr69zekq3oyj": 56143597,
-        "lskzbk92otyyqmwggccqo74qgz92wxbrsozxax3j8": 2999760,
-        "lsk3fw4ttb62k46xkommswj9wbd78kmfzzp78mohg": 810748933,
-        "lsksjxsmsmnfjjdpo4hocxa5hsfffbcdxzgmbgwmp": 1314075627,
-        "lskbaf6xmvk4f3o8t5y2du45t8shkpxsfcrthufcm": 34165836
+        "lskrcroejfjvdmdsd6g9han7rp2gk74pdrvonm2x3": 7902391,
+        "lskzbk92otyyqmwggccqo74qgz92wxbrsozxax3j8": 3599712,
+        "lskfv5fpomz9wkfyopehfrhurtwc3k94ed6eh6x8b": 2292204538,
+        "lskbaf6xmvk4f3o8t5y2du45t8shkpxsfcrthufcm": 34243829,
+        "lskd49wwnfvv6jp8j5f8g8zv9h3wputebz44wcmp2": 263414971,
+        "lskq7jrtxzjpsof24csvvhrc6f6hc84eqmj8w3euk": 790245218,
+        "lskdh57h3df8yjpytzom8779umnsdjr69zekq3oyj": 56503568,
+        "lskpb7rypqzrh9kk66dbc3hkoujpe4pw9ba5z47nz": 36390564,
+        "lsksjxsmsmnfjjdpo4hocxa5hsfffbcdxzgmbgwmp": 1317075387,
+        "lsk3fw4ttb62k46xkommswj9wbd78kmfzzp78mohg": 814348645,
+        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 8186741601,
+        "lskckvqz4feqo5u9s66cjkdq48cou69c8w4q92sqj": 5606504,
+        "lskth449yvab64oprouqp8x93dwqu697enkoteuzo": 406902690,
+        "lsksnvy6x4k9rudbnehfqsndwcobdvnxus9mwnwzs": 2634150915
     },
     "lastPayout": {
-        "date": 1630752302,
-        "rewards": 41500000000,
-        "producedBlocks": 415
-    },
-    "history": []
+        "date": 1630753202,
+        "producedBlocks": 416,
+        "rewards": 41600000000
+    }
 }
